@@ -14,9 +14,9 @@
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://farhanakhtar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/farhanakhtar28"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:farhan.akhtar.ug24@gmail.com"><img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:farhan.akhtar.ug24@nsut.ac.in"><img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/FarhanScripts8"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
@@ -280,7 +280,7 @@ open_to:
 <a href="mailto:farhan.akhtar.ug24@nsut.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/farhanakhtar28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/FarhanScripts8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://farhanakhtar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
