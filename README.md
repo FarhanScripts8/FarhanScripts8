@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=250&section=header&text=Farhan&fontSize=80&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
 
 <a href="https://github.com/FarhanScripts8">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+CreatorOS+%E2%80%94+AI-Powered+SaaS+for+Creators;MERN+Stack+%2B+AI%2FML+%2B+Systems+Engineering;NSUT+Delhi+%7C+Instrumentation+%26+Control+Engineering;Competitive+Programmer+%7C+Codeforces+Aspirant" alt="Typing SVG" />
+ 
 </a>
 
 <br/>
@@ -52,7 +52,7 @@ I'm an engineering student who thinks like a product builder. My background in *
 
 **Languages**
 
-![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python) 
 
 **Frontend**
 
@@ -65,18 +65,6 @@ I'm an engineering student who thinks like a product builder. My background in *
 **Cloud, DevOps & Tooling**
 
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode)
-
----
-
-### 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| LLM Integration | ⭐⭐⭐⭐☆ | Anthropic SDK integration into production SaaS (CreatorOS), multi-agent orchestration |
-| Multi-Agent Systems | ⭐⭐⭐⭐☆ | Parallel agent architecture — trend, frequency, pattern & prediction agents for PYQ analysis tool |
-| Data Science | ⭐⭐⭐☆☆ | Applied data science methods in Zomathon hackathon |
-| Applied ML for Urban Systems | ⭐⭐⭐☆☆ | Bengaluru traffic optimization at Flipkart Gridlock 2.0 |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Structured prompting for exam-prep tooling, PDF-based content generation pipelines |
 
 ---
 
@@ -192,6 +180,10 @@ Volunteered with an NGO focused on community education, coordinating classroom a
 
 ### 📜 Certifications
 
+**ANTHROPIC**
+
+![ANTHROPIC](https://img.shields.io/badge/Anthropic-AI%20Fluency%20%26%20Claude%20101-191919?style=flat-square&logo=anthropic&logoColor=white)
+
 **AWS**
 
 ![AWS](https://img.shields.io/badge/AWS-Certification%20In%20Progress-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -233,16 +225,6 @@ Volunteered with an NGO focused on community education, coordinating classroom a
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanScripts8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%" />
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FarhanScripts8&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
