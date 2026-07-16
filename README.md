@@ -14,12 +14,25 @@
 
 <br/><br/>
 
+---
+<div align="center">
 <a href="https://farhanakhtar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/farhanakhtar28"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:farhan.akhtar.ug24@nsut.ac.in"><img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/FarhanScripts8"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
+
+---
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FarhanScripts8/FarhanScripts8/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FarhanScripts8&style=flat-square&color=6d28d9&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/FarhanScripts8?style=flat-square&color=6d28d9&labelColor=1e1b4b&label=FOLLOWERS)
@@ -235,16 +248,6 @@ Volunteered with an NGO focused on community education, coordinating classroom a
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanScripts8&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd" width="95%" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/FarhanScripts8/FarhanScripts8/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 
