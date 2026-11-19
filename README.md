@@ -1,3 +1,8 @@
+<img
+  src="https://raw.githubusercontent.com/FarhanScripts8/github-profile-assets/main/assets/svg/hero.svg"
+  width="100%"
+  alt="Farhan’s animated GitHub profile card"
+/>
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=250&section=header&text=Farhan&fontSize=80&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
